@@ -8,7 +8,7 @@
 ## Formação
 **Fiap:** Graduação - Sistemas de Informação
 
-**Padre Moye** Ensino Médio
+**Padre Moye:** Ensino Médio
 
 ## Experiências profissionais
 #### Mooven Consulting - Front-End Engeneer - Dez 2017/Atual
@@ -73,6 +73,7 @@ Atuação como webmaster dos sites:
 - Redux
 - REST
 - PWA
+- React-native
 - NodeJs
 - Gulp / Grunt
 - Webpack
