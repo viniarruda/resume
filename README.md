@@ -1,6 +1,6 @@
 # Vinícius Arruda
 - 21 anos
-- Desenvolvedor Front-end
+- Desenvolvedor Front-end e Ux/Ui Designer
 - São Paulo, SP - Limão
 - viniarruda.souza@gmail.com
 - https://vinizarruda.com.br
@@ -11,16 +11,26 @@
 **Padre Moye:** Ensino Médio
 
 ## Experiências profissionais
+
+### Dr. Cannabis - Tech Lead / Front-End Engineer - Abril 2018/Atual
+Desenvolvimento para a plataforma da Startup Dr, liderança e acompanhamento em desenvolvimento de empresa terceira. Cannabis. Desenvolvimento full-stack em Wordpress.
+
+http://drcannabis.com.br
+
 ### Bicos Online - Front-End Engineer - Março 2018/Atual
 Desenvolvimento para a plataforma da Startup Bicos. Desenvolvimento front-end em:
 - ReactJs
 - Redux
-
+- REST
+- Aphrodite css 
+https://bicos.com.br
 
 #### Mooven Consulting - Front-End Engineer - Dez 2017/Março 2018
-Estruturação e desenvolvimentos de sites, atendendo clientes de grande porte. Desenvolvimento com foco em:
+Estruturação e desenvolvimentos de sites, atendendo grandes clientes, como: Marisa, Hyundai, Adesampa. Desenvolvimento com foco em:
 - ReactJs
-- Redux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+- Redux
+- Sass
+- REST
 
 #### Uplant - Startup Campeã da StartupOne Fiap 2017
 Após um ano de projetos, análise de mercado, desenvolvimento de plataforma(MVP) e de toda a interface para o usuário, A Uplant competiu contra mais de 220 startups formadas por pessoas de todos os cursos de últimos anos e foi a grande campeã da StartupOne. Como prêmio, a Uplant ganhou um convite para o Fast Track do acelera Startup FIESP e uma viagem para estudos de empreendedorismo na Babson College, a melhor escola de empreendedorismo dos Eua. 
