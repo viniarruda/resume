@@ -3,7 +3,6 @@
 - Desenvolvedor Front-end e Ux/Ui Designer
 - São Paulo, SP - Limão
 - viniarruda.souza@gmail.com
-- https://vinizarruda.com.br
 
 ## Formação
 **Fiap:** Graduação - Sistemas de Informação
