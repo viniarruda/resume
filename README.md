@@ -12,7 +12,7 @@
 ## Experiências profissionais
 
 ### Dr. Cannabis - Tech Lead / Front-End Engineer - Abril 2018/Atual
-Desenvolvimento para a plataforma da Startup Dr, liderança e acompanhamento em desenvolvimento de empresa terceira. Cannabis. Desenvolvimento full-stack em Wordpress.
+Desenvolvimento para a plataforma da Startup Dr.Cannabis, liderança e acompanhamento em desenvolvimento de empresa terceira. Desenvolvimento full-stack em Wordpress.
 
 http://drcannabis.com.br
 
