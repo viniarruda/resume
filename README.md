@@ -1,22 +1,28 @@
 # Vinícius Arruda
-- 21 anos
+- 22 anos
 - Desenvolvedor Front-end e Ux/Ui Designer
 - São Paulo, SP - Limão
 - viniarruda.souza@gmail.com
 
 ## Formação
-**Fiap:** Graduação - Sistemas de Informação
 
+**Babson College** Babson Build - The entrepreneurship program
+**Fiap:** Graduação - Sistemas de Informação
 **Padre Moye:** Ensino Médio
 
 ## Experiências profissionais
 
-### Dr. Cannabis - Tech Lead / Front-End Engineer - Abril 2018/Atual
+### Millennium Network - Agosto / Atual
+Front-End Engineer
+
+http://e-millennium.com.br/
+
+### Dr. Cannabis - Tech Lead / Front-End Engineer - Abril 2018/Julho 2018
 Desenvolvimento para a plataforma da Startup Dr.Cannabis, liderança e acompanhamento em desenvolvimento de empresa terceira. Desenvolvimento full-stack em Wordpress.
 
 http://drcannabis.com.br
 
-### Bicos Online - Front-End Engineer - Março 2018/Atual
+### Bicos Online - Front-End Engineer - Março 2018/Julho 2018
 Desenvolvimento para a plataforma da Startup Bicos. Desenvolvimento front-end em:
 - ReactJs
 - Redux
@@ -109,4 +115,3 @@ Atuação como webmaster dos sites:
 
 ## Portfólio 
 https://viniarruda.com
-
