@@ -86,15 +86,19 @@ Atuação como webmaster dos sites:
 - HTML5
 - CSS3
 - Sass
-- Javascript
-- Bootstrap
+- Javascript / Typescript
+- Bootstrap / Material
 - jQuery
 - ES6
 - React
 - Redux
+- Styled-component / Aphrodite
+- Angular 2x+
+- RxJs
 - REST
 - PWA
 - React-native
+- Ionic
 - NodeJs
 - Gulp / Grunt
 - Webpack
