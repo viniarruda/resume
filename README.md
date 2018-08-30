@@ -6,8 +6,10 @@
 
 ## Formação
 
-**Babson College** Babson Build - The entrepreneurship program
+**Babson College:** Babson Build - The entrepreneurship program
+
 **Fiap:** Graduação - Sistemas de Informação
+
 **Padre Moye:** Ensino Médio
 
 ## Experiências profissionais
