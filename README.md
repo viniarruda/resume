@@ -32,7 +32,7 @@ Desenvolvimento para a plataforma da Startup Bicos. Desenvolvimento front-end em
 - Redux
 - REST
 - Aphrodite css 
-https://bicos.com.br
+https://www.bicos.com.br/
 
 #### Mooven Consulting - Front-End Engineer - Dez 2017/Março 2018
 Estruturação e desenvolvimentos de sites, atendendo grandes clientes, como: Marisa, Hyundai, Adesampa. Desenvolvimento com foco em:
