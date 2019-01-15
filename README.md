@@ -6,6 +6,8 @@
 
 ## Formação
 
+**Fiap Shift**: Design Thinking na prática
+
 **Babson College:** Babson Build - The entrepreneurship program
 
 **Fiap:** Graduação - Sistemas de Informação
