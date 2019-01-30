@@ -6,9 +6,9 @@
 
 ## Formação
 
-**Fiap Shift**: Design Thinking na prática
+**Fiap - Shift**: Design Thinking na prática
 
-**Babson College:** Babson Build - The entrepreneurship program
+**Babson College:** Babson Build - The entrepreneurship program (Boston)
 
 **Fiap:** Graduação - Sistemas de Informação
 
@@ -16,8 +16,8 @@
 
 ## Experiências profissionais
 
-### Millennium Network - Agosto / Atual
-Front-End Engineer
+### Millennium Network - Front-End Engineer - Agosto / Atual
+Desenvolvimento de PDV para grandes marcas no mercado de e-commerce. Desenvolvimento em Angular/React
 
 http://e-millennium.com.br/
 
@@ -90,6 +90,7 @@ Atuação como webmaster dos sites:
 - HTML5
 - CSS3
 - Sass
+- Ux/Ui Design
 - Javascript / Typescript
 - Bootstrap / Material
 - jQuery
@@ -102,24 +103,19 @@ Atuação como webmaster dos sites:
 - REST
 - PWA
 - React-native
-- Ionic
 - NodeJs
 - Gulp / Grunt
 - Webpack
 - Npm / Bower
 - Mobile First
 - Flexbox
-- Git
+- Git/Svn
 - Wordpress
 - SEO
 - Métodos Ágeis (Scrum / Kanban)
-- Photoshop / Illustrator
-- Ux design
+
 
 #### Ferramentas
 - Ubuntu/Windows/MacOS
 - VS Code / Intellij
-- Adobe Creative Suite
-
-## Portfólio 
-https://viniarruda.com
+- Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)
