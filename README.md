@@ -96,7 +96,7 @@ Atuação como webmaster dos sites:
 - jQuery
 - ES6
 - React
-- Redux
+- Redux / Mobx
 - Styled-component / Aphrodite
 - Angular 2x+
 - RxJs
