@@ -31,12 +31,14 @@ Desenvolvimento para a plataforma da Startup Bicos. Desenvolvimento front-end em
 - ReactJs
 - Redux
 - REST
-- Aphrodite css 
+- Aphrodite css
+
 https://www.bicos.com.br/
 
 #### Mooven Consulting - Front-End Engineer - Dez 2017/Março 2018
 Estruturação e desenvolvimentos de sites, atendendo grandes clientes, como: Marisa, Hyundai, Adesampa. Desenvolvimento com foco em:
 - ReactJs
+- React Native
 - Redux
 - Sass
 - REST
@@ -44,45 +46,11 @@ Estruturação e desenvolvimentos de sites, atendendo grandes clientes, como: Ma
 #### Uplant - Startup Campeã da StartupOne Fiap 2017
 Após um ano de projetos, análise de mercado, desenvolvimento de plataforma(MVP) e de toda a interface para o usuário, A Uplant competiu contra mais de 220 startups formadas por pessoas de todos os cursos de últimos anos e foi a grande campeã da StartupOne. Como prêmio, a Uplant ganhou um convite para o Fast Track do acelera Startup FIESP e uma viagem para estudos de empreendedorismo na Babson College, a melhor escola de empreendedorismo dos Eua. 
 
-https://www.uplant.com.br
-
 #### Doomvs Tecnologia - Front-End Jr. - Março 2017/Dez 2017
-Terceiro na Editora Abril - Atuação como Webmaster dos sites
-- Veja
-- Exame
-- Superinteressante 
-- Vip
-- Guia do Estudante 
-- Mundo Estranho
-- Casacor
-- Estilo
-- Arquitetura e Construção
-- Fundação Victor Civita
-- Minha Casa
-- Placar
-- Quatro Rodas
-- Viagem e Turismo
-- Elastica
-- Veja SP
-- Veja Rio
-- Veja Bh 
-- Veja Brasilia
+Terceiro na Editora Abril - Atuação como Webmaster dos sites do grupo Abril.
 
 #### Editora Abril - Estágio em Desenvolvimento Web - Abril 2015/ Março 2017
-Atuação como webmaster dos sites:
-- Superinteressante 
-- Vip
-- Guia do Estudante 
-- Mundo Estranho 
-- Vida Simples
-- Quatro Rodas
-- Viagem e Turismo
-- National Geographic
-- Elastica
-- Veja SP
-- Veja Rio
-- Veja Bh 
-- Veja Brasilia.
+Atuação como webmaster dos sites: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp, entre outros.
 
 ## Conhecimentos Técnicos
 
