@@ -2,6 +2,7 @@
 - 22 anos
 - Desenvolvedor Front-end e Ux/Ui Designer
 - São Paulo, SP - Limão
+- Cel: (11)95492-8333
 - viniarruda.souza@gmail.com
 
 ## Formação
