@@ -56,36 +56,25 @@ Atuação como webmaster dos sites: Veja, Exame, Superinteressante, Vip, Guia do
 
 ## Conhecimentos Técnicos
 
-#### Habilidades
-- HTML5
-- CSS3
-- Sass
-- Ux/Ui Design
-- Javascript / Typescript
-- Bootstrap / Material
-- jQuery
-- ES6
-- React
+- ReactJs / React-native
 - Redux / Mobx
 - Styled-component / Aphrodite
+- Es6
+- Rest
+- Test react (Jest)
+- Ux/Ui Design
+- Es6 / Typescript
 - Angular 2x+
 - RxJs
-- REST
-- PWA
-- React-native
-- NodeJs
-- Gulp / Grunt
-- Webpack
-- Npm / Bower
-- Mobile First
-- Flexbox
+- Ruby on Rails (Mock api)
 - Git/Svn
-- Wordpress
-- SEO
 - Métodos Ágeis (Scrum / Kanban)
+- Sass (BEM)
 
+
+- HTML5, CSS3, Javascript, Material, Bootstrap, Pwa, jQuery, Nodejs, Gulp/Grunt, Webpack, Npm, Wordpress, SEO
 
 #### Ferramentas
-- Ubuntu/Windows/MacOS
+- Ubuntu/Windows + Subsystem Ubuntu/MacOS
 - VS Code / Intellij
-- Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)
+- Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects, Figma)
