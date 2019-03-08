@@ -23,7 +23,7 @@ Desenvolvimento de PDV para grandes marcas no mercado de e-commerce. Desenvolvim
 
 http://e-millennium.com.br/
 
-### Dr. Cannabis - Tech Lead / Front-End Engineer - Abril 2018/Julho 2018
+### Dr. Cannabis - Tech Lead / Desenvolvedor Full-stack - Abril 2018/Julho 2018
 Desenvolvimento para a plataforma da Startup Dr.Cannabis, liderança e acompanhamento em desenvolvimento de empresa terceira. Desenvolvimento full-stack em Wordpress.
 
 http://drcannabis.com.br
