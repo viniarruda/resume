@@ -4,7 +4,7 @@
 - São Paulo, SP - Limão
 - Cel: (11)95492-8333
 - viniarruda.souza@gmail.com
-- Linkedin: https://linkedin.com/in/viniz-arruda
+- https://linkedin.com/in/viniz-arruda
 
 ## Formação
 
@@ -20,8 +20,6 @@
 
 ### Millennium Network - Front-End Engineer - Agosto / Atual
 Desenvolvimento de PDV para grandes marcas no mercado de e-commerce. Desenvolvimento em Angular/React
-
-http://e-millennium.com.br/
 
 ### Dr. Cannabis - Tech Lead / Desenvolvedor Full-stack - Abril 2018/Julho 2018
 Desenvolvimento para a plataforma da Startup Dr.Cannabis, liderança e acompanhamento em desenvolvimento de empresa terceira. Desenvolvimento full-stack em Wordpress.
@@ -49,7 +47,7 @@ Estruturação e desenvolvimentos de softwares, atendendo grandes clientes, como
 Após um ano de projetos, análise de mercado, desenvolvimento de plataforma(MVP) e de toda a interface para o usuário, A Uplant competiu contra mais de 220 startups formadas por pessoas de todos os cursos de últimos anos e foi a grande campeã da StartupOne. Como prêmio, a Uplant ganhou um convite para o Fast Track do acelera Startup FIESP e uma viagem para estudos de empreendedorismo na Babson College, a melhor escola de empreendedorismo dos Eua. 
 
 #### Doomvs Tecnologia - Front-End Jr. - Março 2017/Dez 2017
-Terceiro na Editora Abril - Atuação como Webmaster dos sites do grupo Abril.
+Terceiro na Editora Abril - Atuação como Webmaster dos sites do grupo Abril. Html, Sass, Js, Php, Gulp
 
 #### Editora Abril - Estágio em Desenvolvimento Web - Abril 2015/ Março 2017
 Atuação como webmaster dos sites: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp, entre outros.
@@ -70,11 +68,9 @@ Atuação como webmaster dos sites: Veja, Exame, Superinteressante, Vip, Guia do
 - Git/Svn
 - Métodos Ágeis (Scrum / Kanban)
 - Sass (BEM)
-
-
 - HTML5, CSS3, Javascript, Material, Bootstrap, Pwa, jQuery, Nodejs, Gulp/Grunt, Webpack, Npm, Wordpress, SEO
 
 #### Ferramentas
 - Ubuntu/Windows + Subsystem Ubuntu/MacOS
 - VS Code / Intellij
-- Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects, Figma)
+- Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)
