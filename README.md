@@ -18,7 +18,7 @@
 
 ## Certificações
 
-**Scrum Foundation Professional Certificate (SFPC) ** : CertiProf
+**Scrum Foundation Professional Certificate (SFPC):**  CertiProf
 
 ## Experiências profissionais
 
