@@ -16,6 +16,10 @@
 
 **Padre Moye:** Ensino Médio
 
+## Certificações
+
+**Scrum Foundation Professional Certificate (SFPC) ** : CertiProf
+
 ## Experiências profissionais
 
 ### Millennium Network - Front-End Engineer - Agosto / Atual
