@@ -67,10 +67,10 @@ Atuação como webmaster dos sites: Veja, Exame, Superinteressante, Vip, Guia do
 - Rest
 - Test react (Jest)
 - Ux/Ui Design
-- Es6 / Typescript
+- Typescript
 - Angular 2x+
 - RxJs
-- Ruby on Rails (Mock api)
+- Ruby on Rails / NodeJs (Mock api)
 - Git/Svn
 - Métodos Ágeis (Scrum / Kanban)
 - Sass (BEM)
