@@ -18,6 +18,10 @@
 
 **Scrum Foundation Professional Certificate (SFPC):**  CertiProf
 
+## Linguas
+- Inglês (Intermediário)
+- Espanhol (Intermediário)
+
 ## Experiências profissionais
 
 ### Millennium Network - Front-End Engineer - Agosto / Atual
