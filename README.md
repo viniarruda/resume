@@ -57,16 +57,16 @@ Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinter
 ## Conhecimentos Técnicos
 
 - ReactJs / React-native
-- Redux / Mobx
+- Global State (Redux / Mobx / Context + Hooks)
 - Styled-component / Aphrodite
 - Es6
-- Rest
+- Rest / Query Graphql
 - Test react (Jest)
 - Ux/Ui Design
 - Typescript
 - Angular 2x+
 - RxJs
-- Ruby on Rails / NodeJs (Mock api)
+- Ruby on Rails / NodeJs
 - Git/Svn
 - Métodos Ágeis (Scrum / Kanban)
 - Sass (BEM)
