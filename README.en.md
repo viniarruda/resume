@@ -4,12 +4,15 @@
 
 - Brazilian, 22 years
 - Front-end Engineer and Ux/Ui Designer
-- São Paulo - SP
-- Phone: (11) 95492-8333 / E-mail: viniarruda.souza@gmail.com
+- São Paulo/SP - Brazil
+- Phone: +55 (11) 95492-8333 / E-mail: viniarruda.souza@gmail.com
 - https://linkedin.com/in/viniz-arruda
 - https://github.com/viniarruda/
 
 ## ABOUT
+
+A Professional who develops since 2014 when he started as a student, interested in new technologies and always open for change. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.
+Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns. He usually spends his free time creating Apps and learn new thinks, in addition to his hobbies.
 
 **Front-End**
 
@@ -37,10 +40,10 @@
 - Agile Method (Scrum / Kanban)
 
 **Tools**
-Ubuntu/ Windows + Subsystem Ubuntu /MacOS
-VS Code / Intellij
-Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)
-Figma
+- Ubuntu/ Windows + Subsystem Ubuntu /MacOS
+- VS Code / Intellij
+- Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)
+- Figma
 
 ## EDUCATION 
 
