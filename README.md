@@ -1,10 +1,10 @@
 # Vinícius Arruda
-- 22 anos
+- 23 anos
 - Desenvolvedor Front-end e Ux/Ui Designer
 - São Paulo, SP - Limão
 - Cel: (11)95492-8333
 - viniarruda.souza@gmail.com
-- Linkedin: https://linkedin.com/in/viniz-arruda
+- [Linkedin](https://linkedin.com/in/viniz-arruda): /viniz-arruda
 
 ## Formação
 
@@ -24,7 +24,12 @@
 
 ## Experiências profissionais
 
-### Millennium Network - Front-End Engineer - Agosto / Atual
+### Avec - Front-end Engineer - Junho 2019 / Atual
+Desenvolvimento de plataforma ERP. Pesquisa e desenvolvimento de melhores práticas e design system. 
+
+Desenvolvimento em ReactJs com typescript e testes com Jest.
+
+### Millennium Network - Front-End Engineer - Agosto 2018/ Junho 2019
 Desenvolvimento de PDV para grandes marcas no mercado de e-commerce. Desenvolvimento em Angular/React
 
 ### Dr. Cannabis - Tech Lead / Dev Full-stack - Abril 2018/Julho 2018
@@ -61,12 +66,13 @@ Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinter
 - Styled-component / Aphrodite
 - Es6
 - Rest / Query Graphql
-- Test react (Jest)
+- Tests (Jest)
+- NodeJs (Express, Sequelize)
 - Ux/Ui Design
 - Typescript
 - Angular 2x+
 - RxJs
-- Ruby on Rails / NodeJs
+- Ruby on Rails
 - Git/Svn
 - Métodos Ágeis (Scrum / Kanban)
 - Sass (BEM)
@@ -74,7 +80,7 @@ Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinter
 - HTML5, CSS3, Javascript, Material, Bootstrap, Pwa, jQuery, Nodejs, Gulp/Grunt, Webpack, Npm, Wordpress, SEO
 
 #### Ferramentas
-- Ubuntu/Windows + Subsystem Ubuntu/MacOS
+- Ubuntu/ Windows + Subsystem Ubuntu/ MacOS
 - VS Code / Intellij
 - Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)
 - Figma
