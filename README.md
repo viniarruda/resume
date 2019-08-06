@@ -61,19 +61,26 @@ Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinter
 
 ## Conhecimentos Técnicos
 
+### Front-end
 - ReactJs / React-native
 - Global State (Redux / Mobx / Context + Hooks)
 - Styled-component / Aphrodite
 - Es6
-- Rest / Query Graphql
+- Rest / Graphql
 - Tests (Jest)
-- NodeJs (Express, Sequelize)
-- Ux/Ui Design
 - Typescript
 - Angular 2x+
-- RxJs
+
+### Back-end
+- NodeJs (Express, Sequelize)
 - Ruby on Rails
+- Postgres / Mongodb
+
+### Diversos
+- Ux/Ui Design
 - Git/Svn
+- Docker
+- Kubernetes
 - Métodos Ágeis (Scrum / Kanban)
 - Sass (BEM)
 
@@ -83,4 +90,4 @@ Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinter
 - Ubuntu/ Windows + Subsystem Ubuntu/ MacOS
 - VS Code / Intellij
 - Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)
-- Figma
+- Figma (Prototipação)
