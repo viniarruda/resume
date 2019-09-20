@@ -5,6 +5,7 @@
 - Cel: (11)95492-8333
 - viniarruda.souza@gmail.com
 - [Linkedin](https://linkedin.com/in/viniz-arruda): /viniz-arruda
+- [Github](https://github.com/viniarruda): /viniarruda
 
 ## Formação
 
@@ -72,7 +73,10 @@ Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinter
 - Angular 2x+
 
 ### Back-end
-- NodeJs (Express, Sequelize)
+- NodeJs 
+  - Express
+  - TypeOrm / Sequelize
+  - NestJs
 - Ruby on Rails
 - Postgres / Mongodb
 
