@@ -31,7 +31,9 @@ Desenvolvimento de plataforma ERP. Pesquisa e desenvolvimento de melhores práti
 Desenvolvimento em ReactJs com typescript e testes com Jest.
 
 ### Millennium Network - Front-End Engineer - Agosto 2018/ Junho 2019
-Desenvolvimento de PDV para grandes marcas no mercado de e-commerce. Desenvolvimento em Angular/React
+Desenvolvimento de PDV para grandes marcas no mercado de e-commerce.
+
+Responsável por desenvolver e melhoras o PDV usado por diversas empresas do ramo de varejo. Melhora de produto, ajudando a empresa a ganhar novos clientes. 
 
 ### Dr. Cannabis - Tech Lead / Dev Full-stack - Abril 2018/Julho 2018
 Desenvolvimento para a plataforma da Startup Dr.Cannabis, liderança e acompanhamento em desenvolvimento de empresa terceira. Desenvolvimento full-stack em Wordpress.
@@ -69,6 +71,7 @@ Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinter
 - Es6
 - Rest / Graphql
 - Tests (Jest)
+- Next (SSR)
 - Typescript
 - Angular 2x+
 
