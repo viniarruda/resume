@@ -25,7 +25,10 @@
 
 ## Experiências profissionais
 
-### Avec - Front-end Engineer - Junho 2019 / Atual
+### Creditas - Senior Software Engineer - Novembro 2019 / Atual
+Desenvolvimento de aplicações modernas utilizando JavaScript, React e React Native.
+
+### Avec - Front-end Engineer - Junho 2019 / Novembro 2019
 Desenvolvimento de plataforma ERP. Pesquisa e desenvolvimento de melhores práticas e design system. 
 
 Desenvolvimento em ReactJs com typescript e testes com Jest.
