@@ -25,7 +25,7 @@
 
 ## Experiências profissionais
 
-### Creditas - Software Engineer - Dezembro 2019 / Atual
+### Creditas - Senior Software Engineer - Novembro 2019 / Atual
 Desenvolvimento de aplicações modernas utilizando JavaScript, React e React Native.
 
 ### Avec - Front-end Engineer - Junho 2019 / Novembro 2019
