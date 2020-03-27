@@ -26,7 +26,9 @@
 ## Experiências profissionais
 
 ### Creditas - Senior Software Engineer - Novembro 2019 / Atual
-Desenvolvimento de aplicações modernas utilizando JavaScript, React e React Native.
+Arquitetar e desenvolver o app da Creditas.
+
+Como senior software engineer, facilitar a criação de soluções para problemas incertos, planejamento de desenvolvimento, ensinar e mentorar os outros devs promovendo sempre a busca constante pela qualidade. Focado em sempre aumentar o codecov, e trazer uma confiabilidade maior pro código e pro produto
 
 ### Avec - Front-end Engineer - Junho 2019 / Novembro 2019
 Desenvolvimento de plataforma ERP. Pesquisa e desenvolvimento de melhores práticas e design system. 
