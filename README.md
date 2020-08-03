@@ -1,5 +1,5 @@
 # Vinícius Arruda
-- 23 anos
+- 24 anos
 - Software Engineer e Ux Designer
 - São Paulo, SP - Limão
 - Cel: (11)95492-8333
@@ -26,9 +26,9 @@
 ## Experiências profissionais
 
 ### Creditas - Senior Software Engineer - Novembro 2019 / Atual
-Arquitetar e desenvolver o app da Creditas.
+Arquitetar e desenvolver o app da Creditas em react native.
 
-Como senior software engineer, facilitar a criação de soluções para problemas incertos, planejamento de desenvolvimento, ensinar e mentorar os outros devs promovendo sempre a busca constante pela qualidade. Focado em sempre aumentar o codecov, e trazer uma confiabilidade maior pro código e pro produto
+Como senior software engineer, facilitar a criação de soluções para problemas incertos, planejamento de desenvolvimento, ensinar e mentorar os outros devs promovendo sempre a busca constante pela qualidade. Focado em sempre aumentar o codecov, e trazer uma confiabilidade maior pro código e pro produto.
 
 ### Avec - Front-end Engineer - Junho 2019 / Novembro 2019
 Desenvolvimento de plataforma ERP. Pesquisa e desenvolvimento de melhores práticas e design system. 
