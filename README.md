@@ -85,19 +85,20 @@ Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinter
 - Tests integração/unitário (Jest / Enzyme)
 - Next (SSR)
 - Typescript
-- Angular 2x+
+- Design-System
 
 ### Back-end
 - NodeJs 
   - Express
   - TypeOrm / Sequelize
   - NestJs
-- Ruby on Rails
 - Postgres / Mongodb
 - Socket
 
 ### Diversos
 - Monorepo/Submodules
+- CI/CD
+- Detox
 - Ux Design
 - Git/Svn
 - Docker
