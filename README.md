@@ -30,6 +30,10 @@ Arquitetar e desenvolver o app da Creditas em react native.
 
 Como senior software engineer, facilitar a criação de soluções para problemas incertos, planejamento de desenvolvimento, ensinar e mentorar os outros devs promovendo sempre a busca constante pela qualidade. Focado em sempre aumentar o codecov, e trazer uma confiabilidade maior pro código e pro produto.
 
+Responsável por criar a conta digital, cuidando da parte de cartões físico e virtual, pagamento de contas e transferências. Ajudando também na refatoração do time de Engament, onde é possível controlar todas as parcelas do investimento.
+
+Configuração do CircleCi para automatização de deploy, tests e pull-requests. Principal mantenedor do Design-system mobile, auxiliando nas reviews, prs e criação de novos components.
+
 ### Avec - Front-end Engineer - Junho 2019 / Novembro 2019
 Desenvolvimento de plataforma ERP. Pesquisa e desenvolvimento de melhores práticas e design system. 
 
