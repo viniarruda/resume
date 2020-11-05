@@ -84,6 +84,7 @@ CircleCi configuration for automation of deploy, tests and pull-requests. Main m
 Working at Editora Abril hired by Domvs.
 
 **Apr/2015 -> Mar/2017 Editora Abril - Internship in Web Development**
+
 **Description:** Development of Abril sites, such as: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp. 
 
 
