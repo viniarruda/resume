@@ -1,5 +1,3 @@
-~ In construction
-
 # Vinícius Arruda
 
 - Brazilian, 24 years
