@@ -56,7 +56,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 **Description:** Architect and develop the Creditas app in react native.
 
-As a senior software engineer, facilitating the creation of solutions to uncertain problems, development planning, teaching and mentoring other devs, always promoting the constant search for quality. Focused on always increasing the codecov, and bringing greater reliability to the code and the product.
+As a senior software engineer, creating easy solutions to uncertain problems, development planning, teaching and mentoring other devs, always promoting the constant search for quality. Focused on always increasing the codecov, and bringing greater reliability to the code and the product.
 
 Responsible for creating the digital account, taking care of the physical and virtual cards, bill payments and transfers. Also helping in the refactoring of the Engament team, where it is possible to control all installments of the investment.
 
