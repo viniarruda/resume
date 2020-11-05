@@ -2,8 +2,8 @@
 
 # Vinícius Arruda
 
-- Brazilian, 22 years
-- Front-end Engineer and Ux/Ui Designer
+- Brazilian, 24 years
+- Software Engineer and Ux Designer
 - São Paulo/SP - Brazil
 - Phone: +55 (11) 95492-8333 / E-mail: viniarruda.souza@gmail.com
 - https://linkedin.com/in/viniz-arruda
@@ -11,7 +11,7 @@
 
 ## ABOUT
 
-A Professional who develops since 2014 when he started as a student, interested in new technologies and always open for change. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.
+A Professional who develops since 2014 when he started as a student, interested in new technologies and always open for changes. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.
 Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns. He usually spends his free time creating Apps and learn new thinks, in addition to his hobbies.
 
 **Front-End**
@@ -20,18 +20,17 @@ Always looking for growth and synergetic teams that can share and receive knowle
 - Global State (Redux / Mobx / Context + Hooks)
 - Css in JS (Styled-component / Aphrodite)
 - Es6 / Typescript
-- Rest / Query Graphql
-- Test react (Jest)
+- Rest / Graphql
+- Jest / Enzyme / Testing-library
 - Ux/Ui Design
-- Angular 2x+
-- RxJs
 - Sass (BEM)
 - Pwa
 - Webpack, Gulp
 
 **Back-end**
-- NodeJs
+- NodeJs (Nest,express)
 - Ruby on Rails
+- Elixir
 - Php (Wordpress)
 
 **Version control:** Git/Svn
@@ -55,7 +54,19 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 ## PROFESSIONAL INFO
 
-**Aug/2018 -> Actual - Millennium Network:** Front-End Engineer
+**Nov/2019 -> Now - Creditas:** Software Engineer
+**Description:** Architect and develop the Creditas app in react native.
+
+As a senior software engineer, facilitating the creation of solutions to uncertain problems, development planning, teaching and mentoring other devs, always promoting the constant search for quality. Focused on always increasing the codecov, and bringing greater reliability to the code and the product.
+
+Responsible for creating the digital account, taking care of the physical and virtual cards, bill payments and transfers. Also helping in the refactoring of the Engament team, where it is possible to control all installments of the investment.
+
+CircleCi configuration for automation of deploy, tests and pull-requests. Main maintainer of Design-system mobile, assisting in reviews, prs and creation of new components.
+
+**Jun/2019 -> Nov/2019 - Avec:** Front-End Engineer
+**Description:** Development of ERP platform (Enterprise resource planning) for scheduling salons and barber shops. Research and development of best practices and design system.
+
+**Aug/2018 -> Jun/2019 - Millennium Network:** Front-End Engineer
 **Description:** Development and support PDV from big e-commerce companies. Using Html, Sass, Angular and Typescript for the web application.
 
 **Mar/2018 -> Jul/2018 - Startup Bicos Online:** Front-end Engineer
@@ -74,7 +85,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 Working at Editora Abril hired by Domvs.
 
 **Apr/2015 -> Mar/2017 Editora Abril - Internship in Web Development **
-**Description:** Development of Abril sites, such as: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp, entre outros. 
+**Description:** Development of Abril sites, such as: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp. 
 
 
 
