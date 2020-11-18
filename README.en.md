@@ -16,24 +16,28 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 - ReactJs / React-native
 - Global State (Redux / Mobx / Context + Hooks)
+- Next
 - Css in JS (Styled-component / Aphrodite)
-- Es6 / Typescript
+- Ecmascript / Typescript
 - Rest / Graphql
-- Jest / Enzyme / Testing-library
+- Jest / Enzyme
 - Ux/Ui Design
 - Sass (BEM)
 - Pwa
 - Webpack, Gulp
+- Design-system
 
 **Back-end**
 - NodeJs (Nest,express)
 - Ruby on Rails
 - Elixir
-- Php (Wordpress)
 
 **Version control:** Git/Svn
 
 **Others**
+- CircleCi
+- Docker
+- App deployment
 - Agile Method (Scrum / Kanban)
 
 **Tools**
