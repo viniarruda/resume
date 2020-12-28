@@ -1,7 +1,7 @@
 # Vinícius Arruda
 - 24 anos
 - Software Engineer e Ux Designer
-- São Paulo, SP - Limão
+- São Paulo, SP - Campo Belo
 - Cel: (11)95492-8333
 - viniarruda.souza@gmail.com
 - [Linkedin](https://linkedin.com/in/viniz-arruda): /viniz-arruda
