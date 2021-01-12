@@ -2,7 +2,7 @@
 - 24 anos
 - Software Engineer e Ux Designer
 - São Paulo, SP - Campo Belo
-- Cel: (11)95492-8333
+- Cel: (11) 95492-8333
 - viniarruda.souza@gmail.com
 - [Linkedin](https://linkedin.com/in/viniz-arruda): /viniz-arruda
 - [Github](https://github.com/viniarruda): /viniarruda
@@ -48,7 +48,7 @@ Desenvolvimento de PDV para grandes marcas no mercado de e-commerce.
 
 Responsável por desenvolver e melhoras o PDV usado por diversas empresas do ramo de varejo. Melhora de produto, ajudando a empresa a ganhar novos clientes. 
 
-### Dr. Cannabis - Tech Lead / Dev Full-stack - Abril 2018/Julho 2018
+### Dr. Cannabis - Dev Full-stack - Abril 2018/Julho 2018
 Desenvolvimento para a plataforma da Startup Dr.Cannabis, liderança e acompanhamento em desenvolvimento de empresa terceira. Desenvolvimento full-stack em Wordpress.
 
 ### Bicos Online - Front-End Engineer - Março 2018/Julho 2018
