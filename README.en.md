@@ -82,7 +82,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 **Nov/2019 -> Now - Creditas:** Software Engineer
 
-**Description:** Architect and develop the Creditas app in react native.
+**Description:** Architecture and development the Creditas app in react native.
 
 As a senior software engineer, creating easy solutions to uncertain problems, development planning, teaching and mentoring other devs, always promoting the constant search for quality. Focused on always increasing the codecov, and bringing greater reliability to the code and the product.
 
