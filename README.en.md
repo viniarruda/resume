@@ -86,6 +86,8 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 As a senior software engineer, creating easy solutions to uncertain problems, development planning, teaching and mentoring other devs, always promoting the constant search for quality. Focused on always increasing the codecov, and bringing greater reliability to the code and the product.
 
+Have been working with a cross country team (Mexico and Valencia), participating in the meetings, reviews and discuss about app architecture.
+
 Responsible for creating the digital account, taking care of the physical and virtual cards, bill payments and transfers. Also helping in the refactoring of the Engament team, where it is possible to control all installments of the investment.
 
 CircleCi configuration for automation of deploy, tests and pull-requests. Main maintainer of Design-system mobile, assisting in reviews, prs and creation of new components.
