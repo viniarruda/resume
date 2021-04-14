@@ -98,22 +98,13 @@ CircleCi configuration for automation of deploy, tests and pull-requests. Main m
 **Aug/2018 -> Jun/2019 - Millennium Network:** Front-End Engineer
 **Description:** Development and support PDV from big e-commerce companies. Using Html, Sass, Angular and Typescript for the web application.
 
-**Mar/2018 -> Jul/2018 - Startup Bicos Online:** Front-end Engineer
-**Description:** Development and support to online platform. Helping people to search jobs. Develop in Reactjs, Redux, Aphrodite and Rails.
-
-**Apr/2018 -> Jul/2018 - Startup Dr. Cannabis:** Tech-lead / Full-stack Developer
-**Description:** Development to online plataform and helping developers of software house in the tasks. Helping people to use medicinal Cannabis. Develop in Wordpress, Sass(BEM), javascript. 
-
-**Dec/2017 -> Apr/2018 - Mooven Consulting:** Front-End Engineer
-**Description:** Software development for large clients. Thinking with the squad for better architecture and technologies. Develop in ReactJs, Redux, Sass, REST, React-native.
+**Dec/2017 -> Jul/2018 -Independent Consultant:** Front-End Engineer / Fullstack
+**Description:** Technology Consultant helping companies(mainly sales) on technical decision-making. Specializing in web and mobile development, finding ways how to help organizations effectively deliver their product to end-user without sacrificing quality.
 
 **Jan/2017 -> Dec/2017 - Uplant - Startup winner of StartupOne Fiap 2017**
 **Description:** After one year of project, market analytics, platform development(MVP) and all the user interface, the Uplant competed against more then 220 startups formed by people of all the Fiap courses and was the big winner of StartupOne. As an award Uplant won an invitation to the Fast Track of the Startup FIESP accelerator and a trip to entrepreneurship studies at Babson College, the best school of entrepreneurship in the USA.
 
-**Mac/2017 -> Dec/2017 - Doomvs Tecnologia - Front-End Developer**
-Working at Editora Abril hired by Domvs.
-
-**Apr/2015 -> Mar/2017 Editora Abril - Internship in Web Development**
+**Apr/2015 -> Dec/2017 Editora Abril - Front-End Developer**
 
 **Description:** Development of Abril sites, such as: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp. 
 
