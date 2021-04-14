@@ -55,37 +55,15 @@ Desenvolvimento de PDV para grandes marcas no mercado de e-commerce.
 
 Responsável por desenvolver e melhoras o PDV usado por diversas empresas do ramo de varejo. Melhora de produto, ajudando a empresa a ganhar novos clientes.
 
-### Dr. Cannabis - Dev Full-stack - Abril 2018/Julho 2018
+#### Mooven Consulting - Front-End Engineer - Dez 2017/Jul 2018
 
-Desenvolvimento para a plataforma da Startup Dr.Cannabis, liderança e acompanhamento em desenvolvimento de empresa terceira. Desenvolvimento full-stack em Wordpress.
-
-### Bicos Online - Front-End Engineer - Março 2018/Julho 2018
-
-Desenvolvimento para a plataforma da Startup Bicos. Desenvolvimento front-end em:
-
-- ReactJs
-- Redux
-- REST
-- Aphrodite css
-
-#### Mooven Consulting - Front-End Engineer - Dez 2017/Março 2018
-
-Estruturação e desenvolvimentos de softwares, atendendo grandes clientes, como: Marisa, Hyundai, Adesampa. Desenvolvimento com foco em:
-
-- ReactJs
-- React Native
-- Redux
-- Sass
+Ajudando startups na construção de suas plataformas e softwares para clientes. Tendo como foco a área comercial e sendo responsável por coordenar, desenvolver e melhorar toda a área de front-end da plataforma de contratação de profissionais autônomos.
 
 #### Uplant - Startup Campeã da StartupOne Fiap 2017
 
 Após um ano de projetos, análise de mercado, desenvolvimento de plataforma(MVP) e de toda a interface para o usuário, A Uplant competiu contra mais de 220 startups formadas por pessoas de todos os cursos de últimos anos e foi a grande campeã da StartupOne. Como prêmio, a Uplant ganhou um convite para o Fast Track do acelera Startup FIESP e uma viagem para estudos de empreendedorismo na Babson College, a melhor escola de empreendedorismo dos Eua.
 
-#### Doomvs Tecnologia - Front-End Jr. - Março 2017/Dez 2017
-
-Terceiro na Editora Abril - Atuação como Desenvolvedor dos sites do grupo Abril.
-
-#### Editora Abril - Estágio em Desenvolvimento Web - Abril 2015/ Março 2017
+#### Editora Abril - Estágio em Desenvolvimento Web/ Front-end Jr. - Abril 2015/ Dez 2017
 
 Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp, entre outros.
 
