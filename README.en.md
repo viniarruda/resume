@@ -82,6 +82,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 **Nov/2019 -> Now - Creditas:** Software Engineer
 
+
 **Description:** Architecture and development the Creditas app in react native.
 
 As a senior software engineer, creating easy solutions to uncertain problems, development planning, teaching and mentoring other devs, always promoting the constant search for quality. Focused on always increasing the codecov, and bringing greater reliability to the code and the product.
@@ -93,15 +94,19 @@ Responsible for creating the digital account, taking care of the physical and vi
 CircleCi configuration for automation of deploy, tests and pull-requests. Main maintainer of Design-system mobile, assisting in reviews, prs and creation of new components.
 
 **Jun/2019 -> Nov/2019 - Avec:** Front-End Engineer
+
 **Description:** Development of ERP platform (Enterprise resource planning) for scheduling salons and barber shops. Research and development of best practices and design system.
 
 **Aug/2018 -> Jun/2019 - Millennium Network:** Front-End Engineer
+
 **Description:** Development and support PDV from big e-commerce companies. Using Html, Sass, Angular and Typescript for the web application.
 
 **Dec/2017 -> Jul/2018 -Independent Consultant:** Front-End Engineer / Fullstack
+
 **Description:** Technology Consultant helping companies(mainly sales) on technical decision-making. Specializing in web and mobile development, finding ways how to help organizations effectively deliver their product to end-user without sacrificing quality.
 
 **Jan/2017 -> Dec/2017 - Uplant - Startup winner of StartupOne Fiap 2017**
+
 **Description:** After one year of project, market analytics, platform development(MVP) and all the user interface, the Uplant competed against more then 220 startups formed by people of all the Fiap courses and was the big winner of StartupOne. As an award Uplant won an invitation to the Fast Track of the Startup FIESP accelerator and a trip to entrepreneurship studies at Babson College, the best school of entrepreneurship in the USA.
 
 **Apr/2015 -> Dec/2017 Editora Abril - Front-End Developer**
