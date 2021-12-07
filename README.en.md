@@ -80,7 +80,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 ## PROFESSIONAL INFO
 
-**Nov/2019 -> Now - Creditas:** Software Engineer
+**Nov/2019 -> Apr/2021 - Creditas:** Software Engineer
 
 
 **Description:** Architecture and development the Creditas app in react native.
