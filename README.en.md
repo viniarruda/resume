@@ -1,6 +1,6 @@
 # Vinícius Arruda
 
-- Brazilian, 24 years
+- Brazilian, 25 years
 - Software Engineer and Ux Designer
 - São Paulo/SP - Brazil
 - Phone: +55 (11) 95492-8333 / mail: viniarruda.souza@gmail.com
@@ -33,8 +33,9 @@ Always looking for growth and synergetic teams that can share and receive knowle
 **Front-End**
 
 - ReactJs / React-native
-- Global State (Redux / Mobx / Context + Hooks)
+- Global State (Redux / Mobx / Zustand / Context + Hooks)
 - Next, Gatsby (SSR)
+- React Query
 - Css in JS (Styled-component / Aphrodite)
 - Ecmascript / Typescript
 - Rest / Graphql
@@ -42,7 +43,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 - Ux/Ui Design
 - Sass (BEM)
 - Pwa
-- Webpack, Gulp
+- Webpack
 - Design-system
 
 **Back-end**
@@ -50,8 +51,6 @@ Always looking for growth and synergetic teams that can share and receive knowle
   - Express
   - TypeOrm / Sequelize
   - NestJs
-- Ruby on Rails
-- Elixir
 - Postgres / Mongodb
 - Socket
 
@@ -80,8 +79,15 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 ## PROFESSIONAL INFO
 
-**Nov/2019 -> Apr/2021 - Creditas:** Software Engineer
+**Apr/2021 -> Now - Tradersclub:** Software Engineer
 
+**Description:** Architecture and development of the new Platform of TradersClub using Next and React Query, also refactoring the Channels at app.
+
+Helping to develop and organize the Design System, creating the Channels feature (like slack). 
+
+Starting to help in backend features using Golang
+
+**Nov/2019 -> Apr/2021 - Creditas:** Software Engineer
 
 **Description:** Architecture and development the Creditas app in react native.
 
@@ -92,6 +98,8 @@ Have been working with a cross country team (Mexico and Valencia), participating
 Responsible for creating the digital account, taking care of the physical and virtual cards, bill payments and transfers. Also helping in the refactoring of the Engament team, where it is possible to control all installments of the investment.
 
 CircleCi configuration for automation of deploy, tests and pull-requests. Main maintainer of Design-system mobile, assisting in reviews, prs and creation of new components.
+
+Also responsible to create the App design system 
 
 **Jun/2019 -> Nov/2019 - Avec:** Front-End Engineer
 
