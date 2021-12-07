@@ -12,24 +12,6 @@
 A Professional who develops since 2014 when he started as a student, interested in new technologies and always open for changes. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.
 Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns. He usually spends his free time creating Apps and learn new thinks, in addition to his hobbies.
 
-### Back-end
-- NodeJs 
-  - Express
-  - TypeOrm / Sequelize
-  - NestJs
-- Postgres / Mongodb
-- Socket
-
-### Diversos
-- Monorepo/Submodules
-- CI/CD
-- Detox
-- Ux Design
-- Git/Svn
-- Docker
-- Métodos Ágeis (Scrum / Kanban)
-- Sass (BEM)
-
 **Front-End**
 
 - ReactJs / React-native
@@ -51,6 +33,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
   - Express
   - TypeOrm / Sequelize
   - NestJs
+  - Graphql
 - Postgres / Mongodb
 - Socket
 
