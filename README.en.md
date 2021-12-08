@@ -64,7 +64,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 **Apr/2021 -> Now - Tradersclub:** Software Engineer
 
-**Description:** Architecture and development of the new Platform of TradersClub using Next and React Query, also refactoring the Channels at app.
+**Description:** Architecture and development of the new Platform of TradersClub using SSR. The idea is have an plataform that include a lot of different contents. (Videos, streams, chats, blog, ...) also refactoring the Channels at app.
 
 Helping to develop and organize the Design System, creating the Channels feature (like slack). 
 
