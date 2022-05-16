@@ -1,6 +1,6 @@
 # Vinícius Arruda
 
-- 24 anos
+- 25 anos
 - Software Engineer e Ux Designer
 - São Paulo, SP - Campo Belo
 - Cel: (11) 95492-8333
