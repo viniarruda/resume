@@ -18,7 +18,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 - Global State (Redux / Mobx / Zustand / Context + Hooks)
 - Next, Gatsby (SSR)
 - React Query
-- Css in JS (Styled-component / Aphrodite)
+- Css in JS (Styled-component / Aphrodite / Stitches)
 - Ecmascript / Typescript
 - Rest / Graphql
 - Jest / Enzyme
