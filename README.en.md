@@ -1,6 +1,6 @@
 # Vinícius Arruda
 
-- Brazilian, 25 years
+- Brazilian, 26 years
 - Software Engineer and Ux Designer
 - São Paulo/SP - Brazil
 - Phone: +55 (11) 95492-8333 / mail: viniarruda.souza@gmail.com
@@ -17,16 +17,16 @@ Always looking for growth and synergetic teams that can share and receive knowle
 - ReactJs / React-native
 - Global State (Redux / Mobx / Zustand / Context + Hooks)
 - Next, Gatsby (SSR)
-- React Query
+- Design-system
+- React Query / ApolloClient
 - Css in JS (Styled-component / Aphrodite / Stitches)
 - Ecmascript / Typescript
 - Rest / Graphql
-- Jest / Enzyme
+- Jest / Enzyme / Testing Library
 - Ux/Ui Design
 - Sass (BEM)
 - Pwa
 - Webpack
-- Design-system
 
 **Back-end**
 - NodeJs 
@@ -35,28 +35,23 @@ Always looking for growth and synergetic teams that can share and receive knowle
   - NestJs
   - Graphql
 - Postgres / Mongodb
-- Socket
+- Socketio
 
 **Others**
 - Monorepo/Submodules
-- CI/CD (CircleCI)
-- Detox (e2e)
+- i18n
+- CI/CD (CircleCI / Github Acgtions)
+- Detox / Cypress (e2e)
 - Git/Svn
 - Docker
 - App deployment
 - Agile Method (Scrum / Kanban)
 
-**Tools**
-- Ubuntu/ Windows + Subsystem Ubuntu /MacOS
-- VS Code / Intellij
-- Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)
-- Figma
-
 ## EDUCATION 
 
 **Fiap - Shift:** Design Thinking in practice
 
-**Babson College - Babson Build:** - The entrepreneurship program (Boston)
+**Babson College - Babson Build:** - The entrepreneurship program (Boston - USA)
 
 **Fiap - Bachelor:** - Information Systems
 
@@ -64,7 +59,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 **Apr/2021 -> Now - Tradersclub:** Software Engineer
 
-**Description:** Architecture and development of the new Platform of TradersClub using SSR. The idea is have an plataform that include a lot of different contents. (Videos, streams, chats, blog, ...) also refactoring the Channels at app.
+**Description:** Architecture and development of the new Platform of TradersClub using SSR. The idea is have an plataform that include a lot of different contents. (Videos, streams, chats, blog, ...) also refactoring the Channels (like slack) at app.
 
 Helping to develop and organize the Design System, creating the Channels feature (like slack). 
 
@@ -103,11 +98,3 @@ Also responsible to create the App design system
 **Apr/2015 -> Dec/2017 Editora Abril - Front-End Developer**
 
 **Description:** Development of Abril sites, such as: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp. 
-
-
-
-
-
-
-
-
