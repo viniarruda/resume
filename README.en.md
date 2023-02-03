@@ -59,9 +59,10 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 **Apr/2021 -> Now - Tradersclub:** Software Engineer
 
-**Description:** Architecture and development of the new Platform of TradersClub using SSR. The idea is have an plataform that include a lot of different contents. (Videos, streams, chats, blog, ...) also refactoring the Channels (like slack) at app.
+**Description:** Architecture and development of the new Platform of TradersClub using SSR. The idea is to have a platform that includes many different contents. (Videos, streams, chats, blog, ...) also refactoring the Channels (like slack) in the app (React Native).
 
-Helping to develop and organize the Design System, creating the Channels feature (like slack). 
+Helping to develop and organize the Design System, creating the Channels feature and all the features that envolve with channels.
+Some examples: attachs, videos, streams, emotes, reply, thread, etc.
 
 Starting to help in backend features using Golang
 
