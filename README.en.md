@@ -1,6 +1,6 @@
 # Vinícius Arruda
 
-- Brazilian, 26 years
+- Brazilian, 27 years
 - Software Engineer and Ux Designer
 - São Paulo/SP - Brazil
 - Phone: +55 (11) 95492-8333 / mail: viniarruda.souza@gmail.com
@@ -9,8 +9,8 @@
 
 ## ABOUT
 
-A Professional who develops since 2014 when he started as a student, interested in new technologies and always open for changes. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.
-Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns. He usually spends his free time creating Apps and learn new thinks, in addition to his hobbies.
+A Professional who has developed since 2014 when he started as a student, interested in new technologies and is always open to changes. Likes to look for new ways to solve problems and has an interest in creating products that can positively impact society.
+Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns. He usually spends his free time creating Apps and learning new thinks, in addition to his hobbies.
 
 **Front-End**
 
@@ -19,7 +19,7 @@ Always looking for growth and synergetic teams that can share and receive knowle
 - Next, Gatsby (SSR)
 - Design-system
 - React Query / ApolloClient
-- Css in JS (Styled-component / Aphrodite / Stitches)
+- CSS in JS (Styled-component / Aphrodite / Stitches)
 - Ecmascript / Typescript
 - Rest / Graphql
 - Jest / Enzyme / Testing Library
@@ -36,11 +36,13 @@ Always looking for growth and synergetic teams that can share and receive knowle
   - Graphql
 - Postgres / Mongodb
 - Socketio
+- Kotlin
+    - Ktor
 
 **Others**
 - Monorepo/Submodules
 - i18n
-- CI/CD (CircleCI / Github Acgtions)
+- CI/CD (CircleCI / Github Actions)
 - Detox / Cypress (e2e)
 - Git/Svn
 - Docker
