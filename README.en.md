@@ -9,8 +9,11 @@
 
 ## ABOUT
 
-A Professional who has developed since 2014 when he started as a student, interested in new technologies and is always open to changes. Likes to look for new ways to solve problems and has an interest in creating products that can positively impact society.
-Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns. He usually spends his free time creating Apps and learning new thinks, in addition to his hobbies.
+Software Engineer with 9 years in frontend development, focusing on Design Systems. My background is in Information Systems, and I have worked on many projects, including in banking, ERP, and back-office applications. I am skilled in using React and have a strong understanding of building and using Design Systems effectively.
+
+My work involves creating user-friendly interfaces and powerful web applications using Design Systems. I enjoy working with different open-source projects and multi-disciplined teams.
+
+I am at my best in environments that value creativity, teamwork, and ongoing learning. You can see some of my work and the projects I've contributed to on my GitHub: /viniarruda.
 
 **Front-End**
 
@@ -27,6 +30,8 @@ Always looking for growth and synergetic teams that can share and receive knowle
 - Sass (BEM)
 - Pwa
 - Webpack
+- Npm packages
+- Radix-Ui
 
 **Back-end**
 - NodeJs 
@@ -48,6 +53,8 @@ Always looking for growth and synergetic teams that can share and receive knowle
 - Docker
 - App deployment
 - Agile Method (Scrum / Kanban)
+- Sentry
+- AWS / AWS Cognito
 
 ## EDUCATION 
 
@@ -59,24 +66,47 @@ Always looking for growth and synergetic teams that can share and receive knowle
 
 ## PROFESSIONAL INFO
 
-**Apr/2021 -> Now - Tradersclub:** Software Engineer
+**Mar/2022 -> Now - Trace Finance:** Senior Software Engineer
 
-**Description:** Architecture and development of the new Platform of TradersClub using SSR. The idea is to have a platform that includes many different contents. (Videos, streams, chats, blog, ...) also refactoring the Channels (like slack) in the app (React Native).
+**Description:** As a Senior Software Engineer specializing in front-end development, my primary role involves spearheading the creation and implementation of a comprehensive Design System that serves as the cornerstone of our project's user interface consistency and efficiency. My expertise extends to spearheading multiple key projects, notably in the Banking and Back-Office domains.
+
+In the Banking project, I've played a crucial role in architecting a seamless onboarding flow, meticulously designed to gather essential information from users and facilitate the registration of their companies. This meticulous process ensures a smooth transition into our platform, where, upon activation of their account, users are empowered to engage in a variety of financial activities. These include initiating and receiving transfers, monitoring transaction histories, and managing access controls for multiple users within the same company, thereby enhancing operational efficiency and security.
+
+Moreover, my responsibilities transcend technical development, as I actively contribute to leadership tasks. I assist the Tech Lead in managing the development team, ensuring a collaborative and productive environment, and Also help in interviews. My role in code review is pivotal, as I am entrusted with maintaining high-quality code standards and fostering an atmosphere of continuous learning and improvement among developers. 
+
+In essence, my role as a Senior Software Engineer is a blend of technical prowess in front-end development, project leadership, and team mentorship, all aimed at delivering robust and user-centric solutions.
+
+- Lead programmers to build software;
+- Build software with NextJs with Typescript
+- Principal creator and maintainer of Design-System
+- Creating an SDK using all the requests using React-query to export hooks to use in different projects
+- Creating unit tests with Testing Library and using code cov
+- Review all Pull Requests
+- Working with agile methodology (Scrum, Kanban)
+- Register the event and errors in Sentry
+- Using i18n to enable different languages in the platforms
+- Using npm packages and releases to control the version of our libs
+
+Technologies: NextJs, React-query, Graphql, Zustand, Design System, StitchesJs, Radix-Ui, Sentry, GitHub Actions
+
+**Apr/2021 -> Mar/2022 - Tradersclub:** Senior Software Engineer
+
+**Description:** Architecture and development of the new Platform of TradersClub using SSR. The idea is to have a platform that includes many different contents. (Videos, streams, chats, blog, ...) also refactoring the Channels (like Slack) in the app (React Native).
 
 Helping to develop and organize the Design System, creating the Channels feature and all the features that evolve with channels.
-Some examples: attachs, videos, streams, emotes, reply, thread, etc.
+Some examples: attachs, videos, streams, emotes, replies, threads, etc.
 
 Starting to help in backend features using Golang
 
-**Nov/2019 -> Apr/2021 - Creditas:** Software Engineer
+**Nov/2019 -> Apr/2021 - Creditas:** Senior Software Engineer
 
 **Description:** Architecture and development the Creditas app in react native.
 
-As a senior software engineer, creating easy solutions to uncertain problems, development planning, teaching and mentoring other devs, always promoting the constant search for quality. Focused on always increasing the codecov, and bringing greater reliability to the code and the product.
+As a senior software engineer, creating easy solutions to uncertain problems, development planning, teaching, and mentoring other devs, always promoting the constant search for quality. Focused on always increasing the codecov, and bringing greater reliability to the code and the product.
 
-Have been working with a cross country team (Mexico and Valencia), participating in the meetings, reviews and discuss about app architecture.
+Have been working with a cross-country team (Mexico and Valencia), participating in meetings, reviews, and discuss about app architecture.
 
-Responsible for creating the digital account, taking care of the physical and virtual cards, bill payments and transfers. Also helping in the refactoring of the Engament team, where it is possible to control all installments of the investment.
+Responsible for creating the digital account, and taking care of the physical and virtual cards, bill payments, and transfers. Also helping in the refactoring of the Engament team, where it is possible to control all installments of the investment.
 
 CircleCi configuration for automation of deploy, tests and pull-requests. Main maintainer of Design-system mobile, assisting in reviews, prs and creation of new components.
 
