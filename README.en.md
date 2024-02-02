@@ -72,7 +72,7 @@ I am at my best in environments that value creativity, teamwork, and ongoing lea
 
 In the Banking project, I've played a crucial role in architecting a seamless onboarding flow, meticulously designed to gather essential information from users and facilitate the registration of their companies. This meticulous process ensures a smooth transition into our platform, where, upon activation of their account, users are empowered to engage in a variety of financial activities. These include initiating and receiving transfers, monitoring transaction histories, and managing access controls for multiple users within the same company, thereby enhancing operational efficiency and security.
 
-Moreover, my responsibilities transcend technical development, as I actively contribute to leadership tasks. I assist the Tech Lead in managing the development team, ensuring a collaborative and productive environment, and Also help in interviews. My role in code review is pivotal, as I am entrusted with maintaining high-quality code standards and fostering an atmosphere of continuous learning and improvement among developers. 
+Moreover, my responsibilities transcend technical development, as I actively contribute to leadership tasks. I assist the Tech Lead in managing the development team, ensuring a collaborative and productive environment, and also help in interviews. My role in code review is pivotal, as I am entrusted with maintaining high-quality code standards and fostering an atmosphere of continuous learning and improvement among developers. 
 
 In essence, my role as a Senior Software Engineer is a blend of technical prowess in front-end development, project leadership, and team mentorship, all aimed at delivering robust and user-centric solutions.
 
@@ -104,30 +104,30 @@ Starting to help in backend features using Golang
 
 As a senior software engineer, creating easy solutions to uncertain problems, development planning, teaching, and mentoring other devs, always promoting the constant search for quality. Focused on always increasing the codecov, and bringing greater reliability to the code and the product.
 
-Have been working with a cross-country team (Mexico and Valencia), participating in meetings, reviews, and discuss about app architecture.
+Have been working with a cross-country team (Mexico and Valencia), participating in meetings, reviews, and discussions about app architecture.
 
-Responsible for creating the digital account, and taking care of the physical and virtual cards, bill payments, and transfers. Also helping in the refactoring of the Engament team, where it is possible to control all installments of the investment.
+Responsible for creating the digital account, and taking care of the physical and virtual cards, bill payments, and transfers. Also helping in the refactoring of the Engagement team, where it is possible to control all installments of the investment.
 
-CircleCi configuration for automation of deploy, tests and pull-requests. Main maintainer of Design-system mobile, assisting in reviews, prs and creation of new components.
+CircleCi configuration for automation of deployment, tests and pull requests. Main maintainer of Design-system mobile, assisting in reviews, PRS, and creation of new components.
 
-Also responsible to create the App design system 
+Also responsible for creating the App design system 
 
 **Jun/2019 -> Nov/2019 - Avec:** Front-End Engineer
 
-**Description:** Development of ERP platform (Enterprise resource planning) for scheduling salons and barber shops. Research and development of best practices and design system.
+**Description:** Development of an ERP platform (Enterprise resource planning) for scheduling salons and barber shops. Research and development of best practices and design system.
 
 **Aug/2018 -> Jun/2019 - Millennium Network:** Front-End Engineer
 
-**Description:** Development and support PDV from big e-commerce companies. Using Html, Sass, Angular and Typescript for the web application.
+**Description:** Development and support PDV from big e-commerce companies. Using HTML, Sass, Angular, and Typescript for the web application.
 
 **Dec/2017 -> Jul/2018 -Independent Consultant:** Front-End Engineer / Fullstack
 
-**Description:** Technology Consultant helping companies(mainly sales) on technical decision-making. Specializing in web and mobile development, finding ways how to help organizations effectively deliver their product to end-user without sacrificing quality.
+**Description:** Technology Consultant helping companies(mainly sales) on technical decision-making. Specializing in web and mobile development, finding ways how to help organizations effectively deliver their product to end-users without sacrificing quality.
 
 **Jan/2017 -> Dec/2017 - Uplant - Startup winner of StartupOne Fiap 2017**
 
-**Description:** After one year of project, market analytics, platform development(MVP) and all the user interface, the Uplant competed against more then 220 startups formed by people of all the Fiap courses and was the big winner of StartupOne. As an award Uplant won an invitation to the Fast Track of the Startup FIESP accelerator and a trip to entrepreneurship studies at Babson College, the best school of entrepreneurship in the USA.
+**Description:** After one year of the project, market analytics, platform development(MVP) and all the user interface, the Uplant competed against more than 220 startups formed by people of all the Fiap courses and was the big winner of StartupOne. As an award, Uplant won an invitation to the Fast Track of the Startup FIESP accelerator and a trip to entrepreneurship studies at Babson College, the best school of entrepreneurship in the USA.
 
 **Apr/2015 -> Dec/2017 Editora Abril - Front-End Developer**
 
-**Description:** Development of Abril sites, such as: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp. 
+**Description:** Development of Abril sites, such as Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp. 
