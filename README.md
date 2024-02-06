@@ -1,6 +1,6 @@
 # Vinícius Arruda
 
-- 25 anos
+- 27 anos
 - Software Engineer e Ux Designer
 - São Paulo, SP
 - Cel: (11) 95492-8333
@@ -27,7 +27,30 @@
 
 ## Experiências profissionais
 
-### Creditas - Senior Software Engineer - Novembro 2019 / Atual
+### Trace Finance - Senior Software Engineer - Mar/2022 -> Atual
+
+Participação na criação de um Banking, desempenhei um papel crucial na arquitetura do projeto onde foi pensado umm fluxo de onboarding contínuo, meticulosamente desenhado para reunir informações essenciais dos usuários e facilitar o cadastro de suas empresas. Este garante uma transição tranquila para a nossa plataforma, onde após a ativação da sua conta, os utilizadores podem participar numa variedade de atividades financeiras. Isso inclui iniciar e receber transferências, monitorar históricos de transações e gerenciar controles de acesso para vários usuários dentro da mesma empresa, aumentando assim a eficiência operacional e a segurança.
+
+Além disso, as minhas responsabilidades transcendem o desenvolvimento técnico, pois contribuo ativamente para tarefas de liderança. Auxílio o Tech Lead na gestão da equipe de desenvolvimento, garantindo um ambiente colaborativo e produtivo, além de também auxiliar em entrevistas. Meu papel na revisão de código é fundamental, pois estou encarregado de manter padrões de código de alta qualidade e promover uma atmosfera de aprendizado e melhoria contínua entre os desenvolvedores.
+
+Desenvolvimento com NextJs e Typescript
+Principal criador e mantenedor do Design-System
+Criação um SDK usando todas as solicitações usando React-query para exportar hook possibilitando o uso em diferentes projetos
+Criando testes unitários com Testing Library e usando code cov para garantir mais de 90% de coverage
+Participação de code reviews
+Trabalho metodologia ágil (Scrum e Kanban)
+Registro de eventos e erros no Sentry
+Uso de i18n para habilitar diferentes idiomas nas plataformas
+Uso do npm package e releases para controlar a versão de nossas bibliotecas
+Tecnologias: NextJs, React-query, Graphql, Zustand, Design System, StitchesJs, Radix-Ui, Sentry, GitHub Actions
+
+### Tradersclub - Senior Software Engineer - Abr/2021 -> Mar/2022
+
+Arquitetura e desenvolvimento da nova Plataforma do TradersClub utilizando SSR. A ideia é ter uma plataforma que inclua diversos conteúdos. (Vídeos, streams, chats, blog, ...) refatorando também os Canais (como Slack) no app (React Native).
+
+Ajudando a desenvolver e organizar o Design System, criando a funcionalidade Canais e todas as funcionalidades que evoluem com os canais. Alguns exemplos: anexos, vídeos, streams, emotes, respostas, tópicos, etc.
+
+### Creditas - Senior Software Engineer - Novembro 2019 / Abril 2021
 
 Arquitetar e desenvolver o app da Creditas em react native.
 
