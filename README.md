@@ -25,6 +25,52 @@
 - Inglês (Avançado)
 - Espanhol (Intermediário)
 
+## Conhecimentos Técnicos
+
+### Front-end
+
+- ReactJs / React-native
+- Global State (Redux / Mobx / Zustand / Context + Hooks)
+- Next, Gatsby (SSR)
+- Design-system
+- React Query / ApolloClient
+- CSS in JS (Styled-component / Aphrodite / Stitches)
+- Ecmascript / Typescript
+- Rest / Graphql
+- Jest / Enzyme / Testing Library
+- Ux/Ui Design
+- Sass (BEM)
+- Pwa
+- Webpack
+- Npm packages
+- Radix-Ui
+
+### Back-end
+
+- NodeJs 
+  - Express
+  - TypeOrm / Sequelize
+  - NestJs
+  - Graphql
+- Postgres / Mongodb
+- Socketio
+- Kotlin
+    - Ktor
+
+### Diversos
+
+- Monorepo/Submodules
+- i18n
+- CI/CD (CircleCI / Github Actions)
+- Detox / Cypress (e2e)
+- Git/Svn
+- Docker
+- App deployment
+- Agile Method (Scrum / Kanban)
+- Sentry
+- AWS / AWS Cognito
+
+
 ## Experiências profissionais
 
 ### Trace Finance - Senior Software Engineer - Mar/2022 -> Atual
@@ -78,7 +124,7 @@ Desenvolvimento de PDV para grandes marcas no mercado de e-commerce.
 
 Responsável por desenvolver e melhoras o PDV usado por diversas empresas do ramo de varejo. Melhora de produto, ajudando a empresa a ganhar novos clientes.
 
-#### Mooven Consulting - Front-End Engineer - Dez 2017/Jul 2018
+#### Freelancer independente - Front-End Engineer - Dez 2017/Jul 2018
 
 Ajudando startups na construção de suas plataformas e softwares para clientes. Tendo como foco a área comercial e sendo responsável por coordenar, desenvolver e melhorar toda a área de front-end da plataforma de contratação de profissionais autônomos.
 
@@ -89,48 +135,3 @@ Após um ano de projetos, análise de mercado, desenvolvimento de plataforma(MVP
 #### Editora Abril - Estágio em Desenvolvimento Web/ Front-end Jr. - Abril 2015/ Dez 2017
 
 Atuação como estagiário em desenvolvimento dos sites: Veja, Exame, Superinteressante, Vip, Guia do Estudante, Mundo Estranho, Quatro Rodas, Vida Simples, Viagem e Turismo, National Geographic, Veja Sp, entre outros.
-
-## Conhecimentos Técnicos
-
-### Front-end
-
-- ReactJs / React-native
-- Global State (Redux / Mobx / Context + Hooks)
-- Styled-component / Aphrodite
-- Es6
-- Rest / Graphql
-- Tests integração/unitário (Jest / Enzyme)
-- Tests e2e (Detox)
-- Next (SSR)
-- Typescript
-- Design-System
-
-### Back-end
-
-- NodeJs
-  - Express
-  - TypeOrm / Sequelize
-  - NestJs
-- Postgres / Mongodb
-- Socket
-
-### Diversos
-
-- Monorepo/Submodules
-- CI/CD (CircleCI)
-- AWS / Netlify
-- Detox
-- Ux Design
-- Git/Svn
-- Docker
-- Métodos Ágeis (Scrum / Kanban)
-- Sass (BEM)
-
-- HTML5, CSS3, Javascript, Material, Bootstrap, Pwa, jQuery, Gulp/Grunt, Webpack, Npm, Wordpress, SEO
-
-#### Ferramentas
-
-- Ubuntu/ Windows + Subsystem Ubuntu/ MacOS
-- VS Code / Intellij
-- Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)
-- Figma (Prototipação)
